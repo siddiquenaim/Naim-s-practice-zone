@@ -9,6 +9,7 @@ ul{
     overflow: hidden;
     background-color: rgba(0, 0, 0, 0.648);
     color: white;
+    text-align: center;
     
 }
 li a {
@@ -23,8 +24,8 @@ li a {
     background-color: #111111;
   }
   li{
-    float:left;
+    float:center;
   }
-  #headiv{
+  .leo{
     text-align: center;
   }
